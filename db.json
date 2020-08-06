@@ -1,0 +1,46 @@
+{  "videoId": "00AT5h_sOQM",
+   "questions":[
+      {
+         "id":9001,
+         "type": "MCQ-SINGLE",
+         "time":60,
+         "text":"If a seller gives a discount of 15% on retail price, she still makes a profit of 2%. Which of the following ensures that she makes a profit of 20%?",
+         "options":[
+            "Give a discount of 5% on retail price",
+            "Give a discount of 2% on retail price",
+            "Increase the retail price by 2%",
+            "Sell at retail price"
+         ],
+         "hint": "Discount doesn't always mean profit",
+         "correct": 3,
+      },
+      {
+         "id":9002,
+         "type": "MCQ-MULTIPLE",         
+         "time":300,
+         "text":"A man travels by a motor boat down a river to his office and back. With the speed of the river unchanged, if he doubles the speed of his motor boat, then his total travel time gets reduced by 75%. The ratio of the original speed of the motor boat to the speed of the river is:",
+         "options":[
+            "√6 : √2",
+            "√7 : 2",
+            "2√5 : 3",
+            "3 : 2"
+         ],
+         "hint": "",
+         "correct": [1,3]
+      },
+      {
+         "id":9003,
+         "type": "MCQ-SINGLE",
+         "time":600,
+         "text":"But are they really tougher? And if so, is there any connection between their manelessness and their ferocity? An intriguing hypothesis was advanced two years ago by Gnoske and Peterhans: Tsavo lions may be similar to the unmaned cave lions of the Pleistocene. The Serengeti variety is among the most evolved of the species",
+         "options":[
+            "The two scientists were struck by wonder on seeing maneless lions for the first time.",
+            "Though Craig was an expert on the Serengeti lion, now he also knew about the Tsavo lions.",
+            "Craig was now able to confirm that darkening of the noses as lions aged applied to Tsavo lions as well.",
+            "Earlier, Craig and West thought that amateur observers had been mistaken."
+         ],
+         "hint": "",
+         "correct": 3     
+      }
+   ]
+}
